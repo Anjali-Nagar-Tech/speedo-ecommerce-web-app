@@ -2,7 +2,7 @@
 
 Speedo is a modern, fast, and user-friendly eCommerce platform built to deliver a seamless online shopping experience. Users can browse products, manage their car with ease through a clean and responsive interface.
 
-🚀 Features
+🚀 Features:
 🔍 Browse products across multiple categories
 🛒 Add, remove, and update items in cart
 📱 Fully responsive (mobile, tablet, desktop)
@@ -13,19 +13,7 @@ Frontend: React.js, HTML5, CSS3, JavaScript
 State Management: Context API
 Routing: React Router
 UI/Icons: React Icons
-📂 Folder Structure
-Speedo/
-│── public/
-│── src/
-│   ├── components/
-│   ├── pages/
-│   ├── context/
-│   ├── assets/
-│   ├── App.js
-│   └── index.js
-│── package.json
-│── README.md
-⚙️ Installation & Setup
+
 
 Follow these steps to run the project locally:
 
@@ -39,7 +27,7 @@ cd speedo-ecommerce
 npm install
 
 # Start the app
-npm start
+npm run dev
 🌐 Live Demo
 
 Deployed link - 

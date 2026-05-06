@@ -44,7 +44,14 @@ npm start
 
 Deployed link - 
 <img width="1920" height="1014" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/08d0a7cd-0abc-4b89-b130-f8d0f8d08779" />
+
+
+
 <img width="1920" height="1004" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/c3b6c26f-cc25-4ae9-b3fb-d54347ec85ab" />
+
+
+
+
 <img width="1920" height="1014" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/e88bba6f-29b9-4556-b2d4-587993ea89fb" />
 
 🎯 Future Improvements:
